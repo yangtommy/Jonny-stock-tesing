@@ -1,0 +1,87 @@
+{
+  "code": "300408.SZ",
+  "name": "潮州三环(集团)股份有限公司",
+  "industry": "所属概念板块/小米概念/新材料",
+  "analysis_date": "2026-05-24",
+  "data_quality": {
+    "balance_sheet_records": 54,
+    "income_statement_records": 67,
+    "cashflow_records": 54,
+    "has_contract_liability": true,
+    "has_construction_in_progress": true,
+    "has_capex": true,
+    "sufficient_history": true
+  },
+  "contract_liability": {
+    "current_value": 36741224.85,
+    "yoy_growth_pct": -10.531191155376263,
+    "qoq_growth_pct": 53.81777520017255,
+    "trend": "fluctuating",
+    "ratio_to_revenue_pct": 1.3704332484097443,
+    "ratio_trend": "fluctuating",
+    "assessment": "合同负债大幅下降10.5%，需警惕新订单断档风险；占收入比仅1.4%，对收入前瞻指导有限"
+  },
+  "capacity_expansion": {
+    "construction_in_progress": {
+      "current_value": 616273807.76,
+      "yoy_growth_pct": -4.579612262383604,
+      "trend": "fluctuating",
+      "ratio_to_fixed_assets_pct": 10.26439255943519
+    },
+    "capacity_intensity": {
+      "capex_to_revenue_pct": 7.028592981545731,
+      "assessment": "资本开支强度正常"
+    },
+    "asset_turnover": {
+      "current": 0.4465347754842574,
+      "trend": "fluctuating"
+    },
+    "expansion_evidence": [],
+    "assessment": "产能变化不显著"
+  },
+  "revenue_profit": {
+    "revenue_growth": {
+      "latest_quarter_value": 2680993393.34,
+      "yoy_growth_pct": 46.25134848709036,
+      "qoq_growth_pct": -70.2348441598942,
+      "trend": "accelerating"
+    },
+    "net_profit_growth": {
+      "latest_quarter_value": 790899567.77,
+      "yoy_growth_pct": 48.48352330095016,
+      "trend": "fluctuating"
+    },
+    "gross_margin": {
+      "current_pct": 43.48893279656574,
+      "trend": "fluctuating"
+    },
+    "net_margin": {
+      "current_pct": 29.50024307164337,
+      "trend": "fluctuating"
+    },
+    "roe": {},
+    "revenue_quality": "收入增长，毛利率平稳"
+  },
+  "cashflow_quality": {
+    "ocf_to_profit_ratio": 0.19811024029484026,
+    "ocf_trend": "fluctuating",
+    "capex_coverage": null,
+    "cash_from_sales_to_revenue_pct": 81.53881797808548,
+    "assessment": "现金流弱于利润，关注应收和存货"
+  },
+  "summary": {
+    "positive_signals_count": 1,
+    "total_signals": 5,
+    "growth_types": [
+      "收入加速增长"
+    ],
+    "overall_quality": "弱信号",
+    "signals_detail": {
+      "contract_liability_positive": false,
+      "capacity_expansion_active": false,
+      "revenue_accelerating": true,
+      "high_quality_cashflow": false,
+      "gross_margin_improving": false
+    }
+  }
+}

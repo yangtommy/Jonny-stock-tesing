@@ -1,0 +1,90 @@
+{
+  "code": "688183.SH",
+  "name": "生益电子股份有限公司",
+  "industry": "所属概念板块/大盘/融资融券",
+  "analysis_date": "2026-05-24",
+  "data_quality": {
+    "balance_sheet_records": 27,
+    "income_statement_records": 34,
+    "cashflow_records": 29,
+    "has_contract_liability": true,
+    "has_construction_in_progress": true,
+    "has_capex": true,
+    "sufficient_history": true
+  },
+  "contract_liability": {
+    "current_value": 12820887.06,
+    "yoy_growth_pct": -25.3600778492455,
+    "qoq_growth_pct": 149.00432565167745,
+    "trend": "accelerating",
+    "ratio_to_revenue_pct": 0.5318615795993794,
+    "ratio_trend": "fluctuating",
+    "assessment": "合同负债大幅下降25.4%，需警惕新订单断档风险；增速呈加速趋势；占收入比仅0.5%，对收入前瞻指导有限"
+  },
+  "capacity_expansion": {
+    "construction_in_progress": {
+      "current_value": 831081677.31,
+      "yoy_growth_pct": 96.81143696687636,
+      "trend": "declining",
+      "ratio_to_fixed_assets_pct": 17.19225614977623
+    },
+    "capacity_intensity": {
+      "capex_to_revenue_pct": 27.123646889566427,
+      "assessment": "资本开支强度较高，处于扩张期"
+    },
+    "asset_turnover": {
+      "current": 0.49866469417707027,
+      "trend": "fluctuating"
+    },
+    "expansion_evidence": [
+      "在建工程同比增长96.8%，扩产积极",
+      "资本开支占收入27.1%，重投入扩张期"
+    ],
+    "assessment": "积极扩产中，在建工程和资本开支双高，关注投产节奏"
+  },
+  "revenue_profit": {
+    "revenue_growth": {
+      "latest_quarter_value": 2410568379.4,
+      "yoy_growth_pct": 52.62092922163832,
+      "qoq_growth_pct": -74.60892834250016,
+      "trend": "declining"
+    },
+    "net_profit_growth": {
+      "latest_quarter_value": 444718185.46,
+      "yoy_growth_pct": 122.1559998920275,
+      "trend": "declining"
+    },
+    "gross_margin": {
+      "current_pct": 35.20550559039662,
+      "trend": "fluctuating"
+    },
+    "net_margin": {
+      "current_pct": 18.448685764752796,
+      "trend": "fluctuating"
+    },
+    "roe": {},
+    "revenue_quality": "收入下滑，需警惕"
+  },
+  "cashflow_quality": {
+    "ocf_to_profit_ratio": 1.38366758742621,
+    "ocf_trend": "fluctuating",
+    "capex_coverage": null,
+    "cash_from_sales_to_revenue_pct": 112.92199279771238,
+    "assessment": "现金流良好，利润有现金流支撑"
+  },
+  "summary": {
+    "positive_signals_count": 1,
+    "total_signals": 5,
+    "growth_types": [
+      "产能扩张驱动"
+    ],
+    "overall_quality": "弱信号",
+    "signals_detail": {
+      "contract_liability_positive": false,
+      "capacity_expansion_active": true,
+      "revenue_accelerating": false,
+      "high_quality_cashflow": false,
+      "gross_margin_improving": false
+    }
+  }
+}

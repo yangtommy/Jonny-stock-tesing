@@ -1,0 +1,39 @@
+{
+  "code": "300476.SZ",
+  "analysis_date": "2026-05-24",
+  "current_valuation": {
+    "pe": 71.61,
+    "pb": 23.56,
+    "ps": null,
+    "market_cap_billion": 3690.36
+  },
+  "historical_percentile": {
+    "pe": {
+      "current_percentile": 99.7,
+      "estimated_pe_3yr_min": 2.4,
+      "estimated_pe_3yr_max": 73.9,
+      "estimated_pe_3yr_median": 7.9,
+      "data_points": 724,
+      "note": "基于近3年价格变动和当前EPS估算的PE分位",
+      "interpretation": "极度高估"
+    },
+    "pb": {
+      "current_percentile": null,
+      "note": "历史PB分位不可直接获取"
+    },
+    "ps": {
+      "current_percentile": null,
+      "note": "历史PS分位不可直接获取"
+    }
+  },
+  "valuation_type": "平稳增长型偏成长（关注增速能否加速）",
+  "peg_analysis": {
+    "peg": 2.56,
+    "assessment": "PEG偏高，增长需加速才能消化估值"
+  },
+  "assessment": "平稳增长+估值偏高：风险收益比不佳，等待更好买点",
+  "revenue_growth_analysis": {
+    "latest_yoy_pct": 28.0,
+    "trend": "decelerating"
+  }
+}

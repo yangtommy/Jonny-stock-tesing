@@ -1,0 +1,44 @@
+{
+  "code": "600183.SH",
+  "analysis_date": "2026-05-24",
+  "sector": "1000SW1非银金融",
+  "peer_count": 3,
+  "rankings": {},
+  "composite_score": {
+    "target_score": 5.5,
+    "max_score": 5.5,
+    "rank": "1/4",
+    "percentile": 75.0
+  },
+  "peer_details": [
+    {
+      "code": "600183.SH",
+      "market_cap_billion": 2623.7,
+      "pe": 56.64,
+      "revenue_growth_pct": 45.1,
+      "cl_growth_pct": -77.9
+    },
+    {
+      "code": "sector_name",
+      "market_cap_billion": null,
+      "pe": null,
+      "revenue_growth_pct": null,
+      "cl_growth_pct": null
+    },
+    {
+      "code": "stocks",
+      "market_cap_billion": null,
+      "pe": null,
+      "revenue_growth_pct": null,
+      "cl_growth_pct": null
+    },
+    {
+      "code": "count",
+      "market_cap_billion": null,
+      "pe": null,
+      "revenue_growth_pct": null,
+      "cl_growth_pct": null
+    }
+  ],
+  "assessment": "综合成长性位于行业中上水平（前25%）"
+}

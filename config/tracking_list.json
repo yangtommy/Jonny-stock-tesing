@@ -1,0 +1,8 @@
+{
+  "stocks": [],
+  "created_date": "2025-05-23",
+  "settings": {
+    "check_interval_days": 7,
+    "auto_alert_on_falsification": true
+  }
+}

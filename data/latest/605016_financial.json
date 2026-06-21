@@ -1,0 +1,90 @@
+{
+  "code": "605016.SH",
+  "name": "山东百龙创园生物科技股份有限公司",
+  "industry": "所属概念板块/专精特新/中盘",
+  "analysis_date": "2026-05-23",
+  "data_quality": {
+    "balance_sheet_records": 29,
+    "income_statement_records": 40,
+    "cashflow_records": 32,
+    "has_contract_liability": true,
+    "has_construction_in_progress": true,
+    "has_capex": true,
+    "sufficient_history": true
+  },
+  "contract_liability": {
+    "current_value": 5427637.24,
+    "yoy_growth_pct": -57.00851046324375,
+    "qoq_growth_pct": 20.207220180884676,
+    "trend": "decelerating",
+    "ratio_to_revenue_pct": 1.3824492229781808,
+    "ratio_trend": "accelerating",
+    "assessment": "合同负债大幅下降57.0%，需警惕新订单断档风险；增速放缓，关注拐点；占收入比仅1.4%，对收入前瞻指导有限"
+  },
+  "capacity_expansion": {
+    "construction_in_progress": {
+      "current_value": 297070822.68,
+      "yoy_growth_pct": 1871.7683830342207,
+      "trend": "decelerating",
+      "ratio_to_fixed_assets_pct": 31.15583690681539
+    },
+    "capacity_intensity": {
+      "capex_to_revenue_pct": 37.749444133509144,
+      "assessment": "资本开支强度较高，处于扩张期"
+    },
+    "asset_turnover": {
+      "current": 0.4117570536768973,
+      "trend": "fluctuating"
+    },
+    "expansion_evidence": [
+      "在建工程同比增长1871.8%，扩产积极",
+      "资本开支占收入37.7%，重投入扩张期"
+    ],
+    "assessment": "积极扩产中，在建工程和资本开支双高，关注投产节奏"
+  },
+  "revenue_profit": {
+    "revenue_growth": {
+      "latest_quarter_value": 392610242.01,
+      "yoy_growth_pct": 25.31539429998899,
+      "qoq_growth_pct": -71.53045993393144,
+      "trend": "decelerating"
+    },
+    "net_profit_growth": {
+      "latest_quarter_value": 120585818.74,
+      "yoy_growth_pct": 48.1041079904128,
+      "trend": "fluctuating"
+    },
+    "gross_margin": {
+      "current_pct": 45.10811310558964,
+      "trend": "fluctuating"
+    },
+    "net_margin": {
+      "current_pct": 30.713874941889213,
+      "trend": "fluctuating"
+    },
+    "roe": {},
+    "revenue_quality": "增长态势不明确"
+  },
+  "cashflow_quality": {
+    "ocf_to_profit_ratio": 1.1379752783855421,
+    "ocf_trend": "fluctuating",
+    "capex_coverage": null,
+    "cash_from_sales_to_revenue_pct": 91.26048396131091,
+    "assessment": "现金流良好，利润有现金流支撑"
+  },
+  "summary": {
+    "positive_signals_count": 1,
+    "total_signals": 5,
+    "growth_types": [
+      "产能扩张驱动"
+    ],
+    "overall_quality": "弱信号",
+    "signals_detail": {
+      "contract_liability_positive": false,
+      "capacity_expansion_active": true,
+      "revenue_accelerating": false,
+      "high_quality_cashflow": false,
+      "gross_margin_improving": false
+    }
+  }
+}

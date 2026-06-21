@@ -1,0 +1,87 @@
+{
+  "code": "300750.SZ",
+  "name": "宁德时代新能源科技股份有限公司",
+  "industry": "所属概念板块/固态电池/钠电池",
+  "analysis_date": "2026-05-23",
+  "data_quality": {
+    "balance_sheet_records": 40,
+    "income_statement_records": 59,
+    "cashflow_records": 52,
+    "has_contract_liability": true,
+    "has_construction_in_progress": true,
+    "has_capex": true,
+    "sufficient_history": true
+  },
+  "contract_liability": {
+    "current_value": 45549672000.0,
+    "yoy_growth_pct": 22.813359126751088,
+    "qoq_growth_pct": -7.48212945051484,
+    "trend": "fluctuating",
+    "ratio_to_revenue_pct": 35.273991169946505,
+    "ratio_trend": "fluctuating",
+    "assessment": "合同负债同比增长22.8%，有增长迹象"
+  },
+  "capacity_expansion": {
+    "construction_in_progress": {
+      "current_value": 34854866000.0,
+      "yoy_growth_pct": -1.0414999843846307,
+      "trend": "fluctuating",
+      "ratio_to_fixed_assets_pct": 23.229861425529467
+    },
+    "capacity_intensity": {
+      "capex_to_revenue_pct": 9.615272907154832,
+      "assessment": "资本开支强度正常"
+    },
+    "asset_turnover": {
+      "current": 0.8606247943011356,
+      "trend": "fluctuating"
+    },
+    "expansion_evidence": [],
+    "assessment": "产能变化不显著"
+  },
+  "revenue_profit": {
+    "revenue_growth": {
+      "latest_quarter_value": 129131041000.0,
+      "yoy_growth_pct": 52.44869554824236,
+      "qoq_growth_pct": -69.5231338082903,
+      "trend": "accelerating"
+    },
+    "net_profit_growth": {
+      "latest_quarter_value": 20737710000.0,
+      "yoy_growth_pct": 48.5237160697918,
+      "trend": "accelerating"
+    },
+    "gross_margin": {
+      "current_pct": 24.815621985112006,
+      "trend": "fluctuating"
+    },
+    "net_margin": {
+      "current_pct": 16.059430667797372,
+      "trend": "declining"
+    },
+    "roe": {},
+    "revenue_quality": "收入增长，毛利率平稳"
+  },
+  "cashflow_quality": {
+    "ocf_to_profit_ratio": 1.6241355482355573,
+    "ocf_trend": "fluctuating",
+    "capex_coverage": null,
+    "cash_from_sales_to_revenue_pct": 95.54549475056118,
+    "assessment": "现金流良好，利润有现金流支撑"
+  },
+  "summary": {
+    "positive_signals_count": 1,
+    "total_signals": 5,
+    "growth_types": [
+      "收入加速增长"
+    ],
+    "overall_quality": "弱信号",
+    "signals_detail": {
+      "contract_liability_positive": false,
+      "capacity_expansion_active": false,
+      "revenue_accelerating": true,
+      "high_quality_cashflow": false,
+      "gross_margin_improving": false
+    }
+  }
+}

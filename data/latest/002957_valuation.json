@@ -1,0 +1,39 @@
+{
+  "code": "002957.SZ",
+  "analysis_date": "2026-05-24",
+  "current_valuation": {
+    "pe": 66.02,
+    "pb": 5.54,
+    "ps": null,
+    "market_cap_billion": 183.32
+  },
+  "historical_percentile": {
+    "pe": {
+      "current_percentile": 97.4,
+      "estimated_pe_3yr_min": 15.8,
+      "estimated_pe_3yr_max": 75.7,
+      "estimated_pe_3yr_median": 24.7,
+      "data_points": 724,
+      "note": "基于近3年价格变动和当前EPS估算的PE分位",
+      "interpretation": "极度高估"
+    },
+    "pb": {
+      "current_percentile": null,
+      "note": "历史PB分位不可直接获取"
+    },
+    "ps": {
+      "current_percentile": null,
+      "note": "历史PS分位不可直接获取"
+    }
+  },
+  "valuation_type": "爆发成长型（增速加快，估值非首要矛盾）",
+  "peg_analysis": {
+    "peg": 4.29,
+    "assessment": "PEG偏高，增长需加速才能消化估值"
+  },
+  "assessment": "爆发成长+偏高PEG：市场已给予成长溢价，核心跟踪成长逻辑是否持续兑现",
+  "revenue_growth_analysis": {
+    "latest_yoy_pct": 15.4,
+    "trend": "accelerating"
+  }
+}

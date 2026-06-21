@@ -1,0 +1,39 @@
+{
+  "code": "600183.SH",
+  "analysis_date": "2026-05-24",
+  "current_valuation": {
+    "pe": 56.64,
+    "pb": 14.63,
+    "ps": null,
+    "market_cap_billion": 2623.69
+  },
+  "historical_percentile": {
+    "pe": {
+      "current_percentile": 100.0,
+      "estimated_pe_3yr_min": 6.4,
+      "estimated_pe_3yr_max": 56.6,
+      "estimated_pe_3yr_median": 11.1,
+      "data_points": 724,
+      "note": "基于近3年价格变动和当前EPS估算的PE分位",
+      "interpretation": "极度高估"
+    },
+    "pb": {
+      "current_percentile": null,
+      "note": "历史PB分位不可直接获取"
+    },
+    "ps": {
+      "current_percentile": null,
+      "note": "历史PS分位不可直接获取"
+    }
+  },
+  "valuation_type": "爆发成长型（高增长可消化高估值，核心看逻辑是否持续）",
+  "peg_analysis": {
+    "peg": 1.26,
+    "assessment": "PEG合理"
+  },
+  "assessment": "爆发成长+偏高PEG：市场已给予成长溢价，核心跟踪成长逻辑是否持续兑现",
+  "revenue_growth_analysis": {
+    "latest_yoy_pct": 45.1,
+    "trend": "accelerating"
+  }
+}

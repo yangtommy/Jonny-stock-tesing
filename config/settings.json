@@ -1,0 +1,33 @@
+{
+  "api": {
+    "base_url": "https://api.zhituapi.com",
+    "token": "",
+    "rate_limit_per_minute": 300,
+    "request_timeout": 30
+  },
+  "cache": {
+    "enabled": true,
+    "dir": "data/cache",
+    "financial_ttl_hours": 24,
+    "market_ttl_minutes": 5
+  },
+  "growth_metrics": {
+    "contract_liability_fields": ["contract_liability", "advance_receipts"],
+    "capacity_fields": ["construction_in_progress", "fixed_assets", "total_assets"],
+    "profitability_fields": ["revenue", "gross_profit", "net_profit", "operating_cash_flow"],
+    "min_quarters_for_trend": 8
+  },
+  "valuation": {
+    "pe_danger_zone": 200,
+    "ps_danger_zone": 20,
+    "peg_threshold": 1.5
+  },
+  "industry": {
+    "mapping_file": "config/industry_mapping.json"
+  },
+  "dashboard": {
+    "output_dir": "data/reports",
+    "format": "markdown",
+    "track_frequency_days": 7
+  }
+}

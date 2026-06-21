@@ -1,0 +1,36 @@
+{
+  "code": "300750.SZ",
+  "analysis_date": "2026-05-23",
+  "current_valuation": {
+    "pe": 22.93,
+    "pb": 5.82,
+    "ps": null,
+    "market_cap_billion": 19022.29
+  },
+  "historical_percentile": {
+    "pe": {
+      "current_percentile": 96.4,
+      "estimated_pe_3yr_min": 6.8,
+      "estimated_pe_3yr_max": 25.7,
+      "estimated_pe_3yr_median": 13.0,
+      "data_points": 725,
+      "note": "基于近3年价格变动和当前EPS估算的PE分位",
+      "interpretation": "极度高估"
+    },
+    "pb": {
+      "current_percentile": null,
+      "note": "历史PB分位不可直接获取"
+    },
+    "ps": {
+      "current_percentile": null,
+      "note": "历史PS分位不可直接获取"
+    }
+  },
+  "valuation_type": "衰退型（收入大幅下滑，低估值可能为价值陷阱）",
+  "peg_analysis": {},
+  "assessment": "公司处于衰退期，当前估值参考意义有限，重点判断业绩拐点",
+  "revenue_growth_analysis": {
+    "latest_yoy_pct": -69.5,
+    "trend": "decelerating"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "code": "300408.SZ",
+  "analysis_date": "2026-05-24",
+  "current_valuation": {
+    "pe": 69.67,
+    "pb": 10.23,
+    "ps": null,
+    "market_cap_billion": 2203.97
+  },
+  "historical_percentile": {
+    "pe": {
+      "current_percentile": 100.0,
+      "estimated_pe_3yr_min": 12.6,
+      "estimated_pe_3yr_max": 69.7,
+      "estimated_pe_3yr_median": 19.7,
+      "data_points": 724,
+      "note": "基于近3年价格变动和当前EPS估算的PE分位",
+      "interpretation": "极度高估"
+    },
+    "pb": {
+      "current_percentile": null,
+      "note": "历史PB分位不可直接获取"
+    },
+    "ps": {
+      "current_percentile": null,
+      "note": "历史PS分位不可直接获取"
+    }
+  },
+  "valuation_type": "爆发成长型（高增长可消化高估值，核心看逻辑是否持续）",
+  "peg_analysis": {
+    "peg": 1.5,
+    "assessment": "PEG偏高，增长需加速才能消化估值"
+  },
+  "assessment": "爆发成长+偏高PEG：市场已给予成长溢价，核心跟踪成长逻辑是否持续兑现",
+  "revenue_growth_analysis": {
+    "latest_yoy_pct": 46.3,
+    "trend": "accelerating"
+  }
+}

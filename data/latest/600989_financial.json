@@ -1,0 +1,90 @@
+{
+  "code": "600989.SH",
+  "name": "宁夏宝丰能源集团股份有限公司",
+  "industry": "所属概念板块/碳中和/大盘",
+  "analysis_date": "2026-05-24",
+  "data_quality": {
+    "balance_sheet_records": 64,
+    "income_statement_records": 42,
+    "cashflow_records": 40,
+    "has_contract_liability": true,
+    "has_construction_in_progress": true,
+    "has_capex": true,
+    "sufficient_history": true
+  },
+  "contract_liability": {
+    "current_value": 1967693392.58,
+    "yoy_growth_pct": 113.84885766929655,
+    "qoq_growth_pct": 52.01488426618528,
+    "trend": "fluctuating",
+    "ratio_to_revenue_pct": 14.865350787667792,
+    "ratio_trend": "fluctuating",
+    "assessment": "合同负债同比大幅增长113.8%，未来收入释放潜力强"
+  },
+  "capacity_expansion": {
+    "construction_in_progress": {
+      "current_value": 5314057037.06,
+      "yoy_growth_pct": 23.143284934556064,
+      "trend": "declining",
+      "ratio_to_fixed_assets_pct": 8.147706283067954
+    },
+    "capacity_intensity": {
+      "capex_to_revenue_pct": 12.141513349884457,
+      "assessment": "资本开支强度较高，处于扩张期"
+    },
+    "asset_turnover": {
+      "current": 0.20295110418911236,
+      "trend": "fluctuating"
+    },
+    "expansion_evidence": [
+      "在建工程同比增长23.1%，扩产积极",
+      "资本开支占收入12.1%，重投入扩张期"
+    ],
+    "assessment": "积极扩产中，在建工程和资本开支双高，关注投产节奏"
+  },
+  "revenue_profit": {
+    "revenue_growth": {
+      "latest_quarter_value": 13236777393.86,
+      "yoy_growth_pct": 22.895695481113144,
+      "qoq_growth_pct": -72.44496126987417,
+      "trend": "declining"
+    },
+    "net_profit_growth": {
+      "latest_quarter_value": 3660674643.2,
+      "yoy_growth_pct": 50.229757035604464,
+      "trend": "declining"
+    },
+    "gross_margin": {
+      "current_pct": 37.40428785972199,
+      "trend": "fluctuating"
+    },
+    "net_margin": {
+      "current_pct": 27.655331311215047,
+      "trend": "fluctuating"
+    },
+    "roe": {},
+    "revenue_quality": "收入下滑，需警惕"
+  },
+  "cashflow_quality": {
+    "ocf_to_profit_ratio": 1.5197184054841053,
+    "ocf_trend": "fluctuating",
+    "capex_coverage": null,
+    "cash_from_sales_to_revenue_pct": 114.13636202100047,
+    "assessment": "现金流良好，利润有现金流支撑"
+  },
+  "summary": {
+    "positive_signals_count": 1,
+    "total_signals": 5,
+    "growth_types": [
+      "产能扩张驱动"
+    ],
+    "overall_quality": "弱信号",
+    "signals_detail": {
+      "contract_liability_positive": false,
+      "capacity_expansion_active": true,
+      "revenue_accelerating": false,
+      "high_quality_cashflow": false,
+      "gross_margin_improving": false
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": "300308.SZ",
+  "name": "中际旭创股份有限公司",
+  "industry": "所属概念板块/黄河三角/创投",
+  "analysis_date": "2026-05-24",
+  "data_quality": {
+    "balance_sheet_records": 65,
+    "income_statement_records": 77,
+    "cashflow_records": 71,
+    "has_contract_liability": true,
+    "has_construction_in_progress": true,
+    "has_capex": true,
+    "sufficient_history": true
+  },
+  "contract_liability": {
+    "current_value": 45593201.52,
+    "yoy_growth_pct": 213.1301973713553,
+    "qoq_growth_pct": 73.17773126630142,
+    "trend": "accelerating",
+    "ratio_to_revenue_pct": 0.23385448596032538,
+    "ratio_trend": "accelerating",
+    "assessment": "合同负债同比大幅增长213.1%，未来收入释放潜力强；增速呈加速趋势；占收入比仅0.2%，对收入前瞻指导有限"
+  },
+  "capacity_expansion": {
+    "construction_in_progress": {
+      "current_value": 2359775498.68,
+      "yoy_growth_pct": 1412.4048571759176,
+      "trend": "accelerating",
+      "ratio_to_fixed_assets_pct": 29.842912749315964
+    },
+    "capacity_intensity": {
+      "capex_to_revenue_pct": 9.895157426376992,
+      "assessment": "资本开支强度正常"
+    },
+    "asset_turnover": {
+      "current": 2.4656129672958795,
+      "trend": "fluctuating"
+    },
+    "expansion_evidence": [
+      "在建工程同比增长1412.4%，扩产积极"
+    ],
+    "assessment": "稳步扩产中，在建工程增长"
+  },
+  "revenue_profit": {
+    "revenue_growth": {
+      "latest_quarter_value": 19496398083.95,
+      "yoy_growth_pct": 192.1169094232574,
+      "qoq_growth_pct": -49.01560957855104,
+      "trend": "accelerating"
+    },
+    "net_profit_growth": {
+      "latest_quarter_value": 5734501526.83,
+      "yoy_growth_pct": 262.2836571329414,
+      "trend": "accelerating"
+    },
+    "gross_margin": {
+      "current_pct": 46.058133025773266,
+      "trend": "accelerating"
+    },
+    "net_margin": {
+      "current_pct": 29.41313314458227,
+      "trend": "fluctuating"
+    },
+    "roe": {},
+    "revenue_quality": "量价齐升，增长质量高"
+  },
+  "cashflow_quality": {
+    "ocf_to_profit_ratio": 0.5872478472390564,
+    "ocf_trend": "fluctuating",
+    "capex_coverage": null,
+    "cash_from_sales_to_revenue_pct": 83.14584116527098,
+    "assessment": "现金流弱于利润，关注应收和存货"
+  },
+  "summary": {
+    "positive_signals_count": 3,
+    "total_signals": 5,
+    "growth_types": [
+      "订单/预收款驱动",
+      "收入加速增长"
+    ],
+    "overall_quality": "中等偏强",
+    "signals_detail": {
+      "contract_liability_positive": true,
+      "capacity_expansion_active": false,
+      "revenue_accelerating": true,
+      "high_quality_cashflow": false,
+      "gross_margin_improving": true
+    }
+  }
+}
